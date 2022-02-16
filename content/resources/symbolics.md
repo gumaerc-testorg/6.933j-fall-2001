@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Symbolics, Inc.: A failure of heterogeneous engineering'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-933j-the-structure-of-engineering-revolutions-fall-2001/30eb0d06f5903c7a4256d397a92f6628_Symbolics.pdf
+file: /media/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/30eb0d06f5903c7a4256d397a92f6628_Symbolics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Symbolics.pdf
 uid: 30eb0d06-f590-3c7a-4256-d397a92f6628
