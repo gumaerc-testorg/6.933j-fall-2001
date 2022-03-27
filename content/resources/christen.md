@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3169a551-70f4-ac7d-33e0-9e825d2dad1c
 resourcetype: Image
 title: christen.jpg
 uid: 6cb5b421-8647-876a-c2c5-447dd145d5e3

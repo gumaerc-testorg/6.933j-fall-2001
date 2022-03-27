@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5c5f8d6-7a57-a2a3-fe1d-a6db41d06009
 resourcetype: Document
 title: tufte2001.pdf
 uid: c7d6d5d2-8b31-7fa9-fa24-ceea714837cc

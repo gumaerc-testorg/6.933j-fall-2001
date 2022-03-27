@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e239475d-04ea-4036-b371-74b5536de916
 resourcetype: Document
 title: Symbolics.pdf
 uid: 30eb0d06-f590-3c7a-4256-d397a92f6628

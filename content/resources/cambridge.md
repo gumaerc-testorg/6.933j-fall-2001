@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e239475d-04ea-4036-b371-74b5536de916
 resourcetype: Document
 title: Cambridge.pdf
 uid: dcf6965b-0c37-9161-52ec-51d8c818a96c

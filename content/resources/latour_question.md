@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5c5f8d6-7a57-a2a3-fe1d-a6db41d06009
 resourcetype: Document
 title: Latour_Question.pdf
 uid: 997aa918-9ac1-22f1-87cc-69e3a20e3b43

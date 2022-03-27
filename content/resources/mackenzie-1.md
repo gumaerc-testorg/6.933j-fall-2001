@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5c5f8d6-7a57-a2a3-fe1d-a6db41d06009
 resourcetype: Document
 title: mackenzie.pdf
 uid: a582c082-c841-da11-2a4f-cbff90da357d

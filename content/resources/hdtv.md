@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e239475d-04ea-4036-b371-74b5536de916
 resourcetype: Document
 title: HDTV.pdf
 uid: 9217271c-c67e-a0a9-9d8a-438cbc84f261

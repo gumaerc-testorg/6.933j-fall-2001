@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e239475d-04ea-4036-b371-74b5536de916
 resourcetype: Document
 title: dragon.pdf
 uid: bdd8e376-d0d1-5201-98f6-7b321322432b
