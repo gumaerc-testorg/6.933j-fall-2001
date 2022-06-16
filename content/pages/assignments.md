@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,25 +23,25 @@ GUIDE FOR READING
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-First Paper Assignment ([PDF]({{< baseurl >}}/resources/latour_question))
+First Paper Assignment ({{% resource_link 997aa918-9ac1-22f1-87cc-69e3a20e3b43 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Guide for Reading Latour ([PDF]({{< baseurl >}}/resources/latour-1))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Second Paper Assignment ([PDF]({{< baseurl >}}/resources/mackenzie_question))
-{{< tdclose >}}
-{{< tdopen >}}
-Guide for Reading MacKenzie ([PDF]({{< baseurl >}}/resources/mackenzie-1))
+Guide for Reading Latour ({{% resource_link 3b944a43-518e-c33d-7284-a52b6fea1a4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Third Paper Assignment ([PDF]({{< baseurl >}}/resources/tufte2001))
+Second Paper Assignment ({{% resource_link 118f01a0-33c0-8259-9ab1-883955106f09 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+Guide for Reading MacKenzie ({{% resource_link a582c082-c841-da11-2a4f-cbff90da357d "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third Paper Assignment ({{% resource_link c7d6d5d2-8b31-7fa9-fa24-ceea714837cc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
