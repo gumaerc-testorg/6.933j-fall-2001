@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: christen.jpg
 uid: 6cb5b421-8647-876a-c2c5-447dd145d5e3
 ---
 [Book cover]: Christensen, Clayton M. The Innovator's Dilemma: The Revolutionary National Bestseller That Changed The Way We Do Business. 1st ed. HarperBusiness, 2 May 2000.
-

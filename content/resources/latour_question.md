@@ -5,6 +5,7 @@ file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/997aa91
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Latour_Question.pdf
 uid: 997aa918-9ac1-22f1-87cc-69e3a20e3b43
 ---
 First Paper Assignment
-

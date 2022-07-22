@@ -5,6 +5,7 @@ file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/a582c08
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mackenzie.pdf
 uid: a582c082-c841-da11-2a4f-cbff90da357d
 ---
 Guide for Reading MacKenzie
-

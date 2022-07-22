@@ -5,6 +5,7 @@ file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/4e5bb20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: 4e5bb204-9bf1-3545-ff6f-308b9ca90538
 ---
 Project Athena: Success in Engineering Projects
-

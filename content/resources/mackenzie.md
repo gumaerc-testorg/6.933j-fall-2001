@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: mackenzie.jpg
 uid: 51d9d383-0108-3e74-0430-3bff7f3d9761
 ---
 [Book cover]: MacKenzie, Donald. Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance (Inside Technology). MIT Press, 29 Jan. 1993. (Reprint edition)
-

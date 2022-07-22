@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: tufte.jpg
 uid: 8ff94508-3eb6-9450-f44b-229f2b278621
 ---
 [Book cover]: Tufte, Edward. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics Press, Feb. 1997.
-

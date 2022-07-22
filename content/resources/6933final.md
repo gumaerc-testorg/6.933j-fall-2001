@@ -5,6 +5,7 @@ file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/bc12739
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6933final.pdf
 uid: bc127396-e97c-3425-e74e-52952c072462
 ---
 The Central Artery/Tunnel Project
-
