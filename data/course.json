@@ -41,8 +41,10 @@
     "website": "6-933j-the-structure-of-engineering-revolutions-fall-2001"
   },
   "learning_resource_types": [
-    "Projects with Examples"
+    "Projects with Examples",
+    "Written Assignments"
   ],
-  "site_uid": "c85a24a8-cecb-4998-bced-b59f7325ff74",
+  "site_uid": "31258441-fb86-4bfc-8830-18bb865a9ff4",
+  "site_short_id": "6.933j-fall-2001",
   "title": "Course Metadata"
 }
