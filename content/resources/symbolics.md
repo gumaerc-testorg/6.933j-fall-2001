@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Symbolics, Inc.: A failure of heterogeneous engineering'
 file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/30eb0d06f5903c7a4256d397a92f6628_Symbolics.pdf
+file_size: 130335
 file_type: application/pdf
 learning_resource_types:
 - Projects

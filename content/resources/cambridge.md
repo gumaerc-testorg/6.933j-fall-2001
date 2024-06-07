@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Cambridge Heart, Inc.: Trajectories in Progress'
 file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/dcf6965b0c37916152ec51d8c818a96c_Cambridge.pdf
+file_size: 339752
 file_type: application/pdf
 learning_resource_types:
 - Projects
