@@ -2,6 +2,7 @@
 content_type: resource
 description: Guide for Reading MacKenzie
 file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/a582c082c841da112a4fcbff90da357d_mackenzie.pdf
+file_size: 64917
 file_type: application/pdf
 learning_resource_types:
 - Assignments

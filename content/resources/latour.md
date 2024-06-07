@@ -3,6 +3,7 @@ content_type: resource
 description: '[Book cover]: Latour, Bruno. Science in Action: How to Follow Scientists
   and Engineers Through Society. Harvard University Press, Oct. 1988. (Reprint edition)'
 file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/69f923872aae509f86a95bfe675ae20d_latour.jpg
+file_size: 9229
 file_type: image/jpeg
 image_metadata:
   caption: ''
