@@ -4,6 +4,7 @@ description: '[Book cover]: MacKenzie, Donald. Inventing Accuracy: A Historical 
   of Nuclear Missile Guidance (Inside Technology). MIT Press, 29 Jan. 1993. (Reprint
   edition)'
 file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/51d9d38301083e7404303bff7f3d9761_mackenzie.jpg
+file_size: 18176
 file_type: image/jpeg
 image_metadata:
   caption: ''
