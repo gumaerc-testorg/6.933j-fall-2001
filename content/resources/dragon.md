@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dragon Systems
-file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/bdd8e376d0d1520198f67b321322432b_dragon.pdf
+file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/bdd8e376d0d1520198f67b321322432b_dragon.pdf
 file_size: 1064240
 file_type: application/pdf
 learning_resource_types:
