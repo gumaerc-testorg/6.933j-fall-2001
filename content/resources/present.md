@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Presentation and Paper Guidelines
-file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/285ec6b85bbe4987d9922f7079681e6f_present.pdf
+file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/285ec6b85bbe4987d9922f7079681e6f_present.pdf
 file_size: 52048
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Project Athena: Success in Engineering Projects'
-file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/4e5bb2049bf13545ff6f308b9ca90538_final.pdf
+file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/4e5bb2049bf13545ff6f308b9ca90538_final.pdf
 file_size: 141920
 file_type: application/pdf
 learning_resource_types:
