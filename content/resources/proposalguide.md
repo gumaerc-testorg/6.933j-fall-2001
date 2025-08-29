@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Project History Proposals: Guidelines November 2001'
-file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/c2c21e4905d71a7f5f8fcb45a68371cc_proposalguide.pdf
+file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/c2c21e4905d71a7f5f8fcb45a68371cc_proposalguide.pdf
 file_size: 86889
 file_type: application/pdf
 learning_resource_types:
