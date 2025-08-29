@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guide for Reading Latour
-file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/3b944a43518ec33d7284a52b6fea1a4e_latour.pdf
+file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/3b944a43518ec33d7284a52b6fea1a4e_latour.pdf
 file_size: 50383
 file_type: application/pdf
 learning_resource_types:

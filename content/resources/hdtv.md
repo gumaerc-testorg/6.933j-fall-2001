@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'HDTV: The Engineering History'
-file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/9217271cc67ea0a99d8a438cbc84f261_HDTV.pdf
+file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/9217271cc67ea0a99d8a438cbc84f261_HDTV.pdf
 file_size: 212753
 file_type: application/pdf
 learning_resource_types:
