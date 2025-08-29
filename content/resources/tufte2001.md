@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Third Paper Assignment
-file: /courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/c7d6d5d28b317fa9fa24ceea714837cc_tufte2001.pdf
+file: /ol-ocw-studio-app/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/c7d6d5d28b317fa9fa24ceea714837cc_tufte2001.pdf
 file_size: 61613
 file_type: application/pdf
 learning_resource_types:
