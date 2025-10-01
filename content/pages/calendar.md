@@ -98,7 +98,7 @@ In-Class Group Work
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Reading: Tufte, Edward. [*Visual and Statistical Thinking*](http://www.amazon.com/exec/obidos/ASIN/0961392134#/ref=nosim/mitopencourse-20)*.*
+Reading: Tufte, Edward. {{% resource_link "ae3d0157-06db-415f-a21f-df7e7d691aa2" "*Visual and Statistical Thinking*" %}}*.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
