@@ -12,7 +12,7 @@ This section provides the recommended readings for the course.
 
 Latour, Bruno. _Science in Action: How to Follow Scientists and Engineers Through Society_. Reprint ed. Cambridge, MA: Harvard University Press, October 1988. ISBN: 9780674792913.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631471) MacKenzie, Donald. [_Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance (Inside Technology)_](https://mitpress.mit.edu/9780262631471). Reprint ed. Cambridge, MA: MIT Press, January 29, 1993. ISBN: 9780262631471.
+{{% resource_link "927d1045-ab54-40d5-a8bc-d39d43755f12" "![Buy at MIT Press](/images/mp_logo.gif)" %}} MacKenzie, Donald. {{% resource_link "927d1045-ab54-40d5-a8bc-d39d43755f12" "_Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance (Inside Technology)_" %}}. Reprint ed. Cambridge, MA: MIT Press, January 29, 1993. ISBN: 9780262631471.
 
 Christensen, Clayton M. _The Innovator's Dilemma: The Revolutionary National Bestseller That Changed The Way We Do Business_. 1st ed. New York, NY: HarperBusiness, May 2, 2000. ISBN: 9780066620695.
 
